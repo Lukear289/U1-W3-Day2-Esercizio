@@ -52,8 +52,8 @@ const number = function (somma) {
 */
 
 const arrayOfNumbers=(array) => {
-const sum = arrayOfNumbers.reduce (( acc, current)){
-  return acc+ current
+const sum = arrayOfNumbers.reduce (( acc, current){
+  return acc+ current})
 },
 arrayOfNumbers=[3,7,10,16,17]
 }
