@@ -56,7 +56,7 @@ const sum = arrayOfNumbers.reduce (( acc, current){
   return acc+ current})
 },
 arrayOfNumbers=[3,7,10,16,17]
-}
+
 /* ESERCIZIO 6 (map)
   Scrivi una funzione che, dato un array di soli numeri e un numero n come parametri, ritorni un secondo array con tutti i valori del precedente incrementati di n
 */
